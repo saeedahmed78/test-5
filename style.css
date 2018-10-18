@@ -1,0 +1,39 @@
+.card1{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    border: none;
+    border-radius: 3px;
+}
+.contents{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card1{
+    flex: 1 1 160px;
+    margin: 0px!important;
+    margin: 10px;
+}
+.card-content{
+    height: 200px !important;
+}
+.carousel-item{
+    /* height: ; */
+    width: 600px !important;
+}
+.alertt{
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    color: white;
+    height: 50px;
+    align-items: center;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
